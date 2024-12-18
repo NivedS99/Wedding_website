@@ -1,3 +1,28 @@
+# Nidhin-Princy Wedding Website  
+
+A beautifully crafted wedding website developed to celebrate the union of Nidhin and Princy. Built with modern technologies, this website provides an interactive and seamless experience for guests to explore event details, RSVP, and more.  
+
+## Website URL  
+[Nidhin-Princy.site](https://nidhin-princy.site)  
+
+## Features  
+- **There Profile**: about them 
+- **There Story**: memories and love. 
+- **Event Details**: Comprehensive schedule and location information.  
+- **Gallery**: Guests can confirm their attendance with ease.  
+- **Responsive Design**: Optimized for all devices.  
+- **Interactive Elements**: Love story, gallery, and guestbook.  
+
+## Technologies Used  
+- **Next.js**  
+- **TypeScript**  
+- **Tailwind CSS**  
+
+## Installation and Setup  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-repo/nidhin-princy-wedding.git
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -18,7 +43,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
 ## Learn More
 
